@@ -1,5 +1,6 @@
 streamlit
 cryptography
+opencv-python-headless
 numpy
 Pillow
 matplotlib
