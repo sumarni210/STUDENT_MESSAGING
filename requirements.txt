@@ -1,4 +1,7 @@
 streamlit
 numpy
-Pillow
+opencv-python
+pycryptodome
+cryptography
 matplotlib
+pillow
